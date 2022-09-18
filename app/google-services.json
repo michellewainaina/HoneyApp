@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214257859436",
+    "project_id": "honeyapp-42999",
+    "storage_bucket": "honeyapp-42999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214257859436:android:4f6fb90a1efa734014d149",
+        "android_client_info": {
+          "package_name": "com.example.honeyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214257859436-f611ac88qishh585immr4d1jkidjq24a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8imi_mFBUcXnmxcW1xs5p8E20NfUNgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214257859436-f611ac88qishh585immr4d1jkidjq24a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
